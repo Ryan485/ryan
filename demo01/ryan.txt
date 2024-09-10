@@ -1,0 +1,11 @@
+<html>
+
+<body>
+<h1> Hello, COMP1800! </h1> 
+<script>
+  console.log("My name is  Ryan.")
+	alert("My name is Ryan.")
+</script>
+</body>
+
+</html>
